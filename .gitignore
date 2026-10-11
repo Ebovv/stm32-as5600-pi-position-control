@@ -1,0 +1,11 @@
+# Build outputs
+Debug/
+Release/
+
+# Backup files
+*.bak
+*~
+
+# IDE temporary files
+.metadata/
+.settings/
